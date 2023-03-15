@@ -1,7 +1,7 @@
 # atmTurbulence_ENERGI322
 
 ## Summary
-Excercise and set of python functions for the course on random processes and atmospheric turbulence [ENERGI210](https://www.uib.no/en/course/ENERGI322) at the University of Bergen (UiB). These functions and excercise are inspired by some of the earlier work in e.g. [1-4].
+Excercise and set of python functions for the course on random processes and atmospheric turbulence [ENERGI322](https://www.uib.no/en/course/ENERGI322) at the University of Bergen (UiB). These functions and excercise are inspired by some of the earlier work in e.g. [1-4].
 
 ## Content
 
